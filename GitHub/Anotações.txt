@@ -1,0 +1,19 @@
+Criar o primeiro repósitorio no GITHUB
+1. Introdução
+2. Git e GitHub: Reelembrar
+ - Criar o repositori no GitHub
+Entra no GitHub
+Click no + /New Repository
+# Desafio da dio Git/Github 
+Repositorio do Desafio Git/GitHub 
+
+## Links Úteis 
+Abre [Digite a especificação](link)
+Commit lá embaixo
+ - Importar o repositorio para a maquina
+Code=HTTPS=Clona= dentro de uma pasta abra i Git Bash=
+C:git clone link clonado do github
+C:git add . /adiciona a pasta ou arquivo
+
+3. Desafio
+4. Entendendo o desafio
